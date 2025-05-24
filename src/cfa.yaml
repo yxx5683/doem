@@ -59,6 +59,7 @@ rules:
   - DOMAIN-SUFFIX,workspace.google.com,DIRECT
   - DOMAIN-SUFFIX,autonavi.com,DIRECT
   - DOMAIN-SUFFIX,jichengfz.top,DIRECT
+  - DOMAIN-SUFFIX,47.108.94.149/80,DIRECT
   - DOMAIN-SUFFIX,accounts.youtube.com,DIRECT
   - DOMAIN-SUFFIX,www.bing.com,DIRECT
   - DOMAIN-SUFFIX,firefox.fun,DIRECT
